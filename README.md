@@ -18,3 +18,18 @@
     
     `bash run_imagenet.sh`
     for ImageNet
+    
+    Following results can be obtained:
+
+| Model     | Bit-width| Dataset  | Top-1 Acc.|
+| --------- | -------- | -------- | --------- | 
+for ImageNet
+| resnet18  | W3A3     | ImageNet | 41.15%    | 
+| resnet18  | W4A4     | ImageNet | 66.32%    | 
+| resnet18  | W5A5     | ImageNet | 69.90%    | 
+| --------- | -------- | -------- | --------- | 
+for CIFAR-100
+| resnet20  | W3A3     | ImageNet | 54.33%    | 
+| resnet20  | W4A4     | ImageNet | 66.35%    | 
+| resnet20  | W5A5     | ImageNet | 69.34%    | 
+| --------- | -------- | -------- | ----------|
