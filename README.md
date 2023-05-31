@@ -1,4 +1,4 @@
-# ADEQ Code under collation, available soon.
+# ADEQ. Code under collation, available soon.
 
 ## Requirements
 
@@ -13,7 +13,8 @@
     
     `cd ADEQ`
 
-    `bash run_cifar100.sh` 
+    `bash run_cifar100.sh`
     for CIFAR-100
+    
     `bash run_imagenet.sh`
     for ImageNet
